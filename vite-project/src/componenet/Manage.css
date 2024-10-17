@@ -1,0 +1,40 @@
+.ManageImg{
+  width: 250px;
+  height: 450px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: white;
+}
+.imgCont{
+  width:100%;
+  height: 30px;
+text-align: center;
+}
+.imgCont img{
+  width: 70px;
+  height: 60px;
+  text-align: center;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 50%;
+}
+ 
+ .textCont h2{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 80px;
+ }
+ .textCont p{
+  font-size: 20px;
+  text-align: center;
+  color: #88879e
+
+ }
+ .ManageImg:hover{
+  background-color: rgb(72, 176, 255);
+  color: white;
+  transition: 0.5s;
+ }
+  .textCont p:hover{
+  color: white;
+}

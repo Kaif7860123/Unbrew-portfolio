@@ -1,0 +1,17 @@
+ .carddiv:hover{
+background-color: rgb(173, 215, 255);
+ }
+  .titlediv{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(194, 179, 179);
+  }
+ .titlediv:hover{
+height: 20px;
+border-radius: 10px solid rgb(238, 230, 230);
+color: white;
+ }
+ .textdiv{
+  font-size: 18px;
+  font-weight: 600;
+}
